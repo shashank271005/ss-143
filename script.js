@@ -7,7 +7,7 @@ const el = {
   container: qs(".mo-container"),
 
   i: qs(".lttr--I"),
-  l: qs(".lttr--L"),
+  l: qs(".lttr--L"), 
   o: qs(".lttr--O"),
   v: qs(".lttr--V"),
   e: qs(".lttr--E"),
